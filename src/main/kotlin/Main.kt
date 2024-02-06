@@ -1,3 +1,5 @@
 fun main() {
-    println("Hello World!")
+    println("Enter your city...")
+    var CITY = readLine()
+    println("User lives in $CITY")
 }
